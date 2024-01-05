@@ -150,4 +150,4 @@ Se você deseja contribuir com este projeto, por favor, siga os passos abaixo:
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Autores
-- [Oswaldo Junior](https://github.com/Juniorexz)
+- [Gustavo Damasceno](https://github.com/GustavoDamasceno)
