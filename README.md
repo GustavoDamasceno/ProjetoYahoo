@@ -117,7 +117,7 @@ RETURN
 
 2. **Tabelas:**
   	 ``` sql
-	   - `CREATE TABLE [dbo].[T_HistoricalPrices](
+	   CREATE TABLE [dbo].[T_HistoricalPrices](
 		[Id] [int] IDENTITY(1,1) NOT NULL,
 		[Date] [datetime] NULL,
 		[Value] [decimal](18, 14) NULL,
